@@ -1,10 +1,10 @@
-# TypeScript Mastery Course 🚀
+# TypeScript Mastery Course
 
 Welcome to the **TypeScript Mastery Course**. This course will walk you through the foundational to advanced concepts in TypeScript, perfect for JavaScript developers who want to scale up with static typing.
 
 ---
 
-## 📚 Course Overview
+##  Course Overview
 
 | Section              | Topics Covered                          |
 |----------------------|------------------------------------------|
@@ -22,18 +22,18 @@ Welcome to the **TypeScript Mastery Course**. This course will walk you through 
 
 ---
 
-## 🧪 Running Examples
+##  Running Examples
 
 Install dependencies (optional):
 ```bash
 npm install -g ts-node typescript
-# TypeScript Mastery Course 🚀
+# TypeScript Mastery Course 
 
 Welcome to the **TypeScript Mastery Course**. This course will walk you through the foundational to advanced concepts in TypeScript, perfect for JavaScript developers who want to scale up with static typing.
 
 ---
 
-## 📚 Course Overview
+##  Course Overview
 
 | Section              | Topics Covered                          |
 |----------------------|------------------------------------------|
@@ -51,7 +51,7 @@ Welcome to the **TypeScript Mastery Course**. This course will walk you through 
 
 ---
 
-## 🧪 Running Examples
+##  Running Examples
 
 Install dependencies (optional):
 ```bash
